@@ -6,10 +6,11 @@
 	symlinks = false
 	ignorecase = true
 [user]
-	name = leomail9329
-	email = leomail9329@gmail.com
+	name = hightop0924
+	email = hightop.dev.hk@gmail.com
 [remote "origin"]
-	url = https://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@github.com/leomail9329/CMS-Django.git
+	url = git@github.com:hightop0924/CMS-django.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "main"]
 	remote = origin
+	merge = refs/heads/main
